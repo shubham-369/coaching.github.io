@@ -1,0 +1,34 @@
+.brand-font
+{
+	font-family: 'Lora', serif;
+}
+.fs
+{
+	font-size: 1.6rem;
+}
+.heading-font
+{
+	font-family: 'Playfair Display', serif;
+}
+.para-font
+{
+	font-family: 'Roboto Condensed', sans-serif;
+}
+.marquee-text
+{
+	font-size: 1.9rem;
+	color: white;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+.footer-nav
+{
+	display: flex;
+}
+.nav-items
+{
+	list-style: none;
+}
+.footer-links
+{
+	text-decoration: none; 
+}
